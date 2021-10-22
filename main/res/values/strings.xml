@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midterm_Catalina</string>
+    <string name="txtTitle">Catalina Ferry Tickets</string>
+    <string name="imgMarina">Marina</string>
+    <string name="btnCalculate">COMPUTE COST</string>
+    <string-array name="txtGroup">
+        <item>To Catalina Island</item>
+        <item>To Long Beach</item>
+    </string-array>
+    <string name="txtTickets">Number of Tickets</string>
+</resources>
